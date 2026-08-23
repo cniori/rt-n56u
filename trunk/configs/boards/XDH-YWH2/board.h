@@ -1,8 +1,8 @@
 /* XDH/C5 */
 
-#define BOARD_PID		"YDH-YWH2"
-#define BOARD_NAME		"YDH-YWH2"
-#define BOARD_DESC		"YDH-YWH2 NAS"
+#define BOARD_PID		"XDH-YWH2"
+#define BOARD_NAME		"XDH-YWH2"
+#define BOARD_DESC		"XDH-YWH2 NAS"
 #define BOARD_VENDOR_NAME	"ChengDu JiZhi"
 #define BOARD_VENDOR_URL	"https://www.xyblock.net/"
 #define BOARD_MODEL_URL		"https://www.xyblock.net/"
